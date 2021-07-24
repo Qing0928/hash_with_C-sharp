@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How_to_HASH_by_MD5", "How_to_HASH_by_MD5.csproj", "{DE2333CB-0452-452F-9400-C8F82DB08704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2333CB-0452-452F-9400-C8F82DB08704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2333CB-0452-452F-9400-C8F82DB08704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2333CB-0452-452F-9400-C8F82DB08704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2333CB-0452-452F-9400-C8F82DB08704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {434EBCAD-86E8-4E4D-B327-1467FB5E9951}
+	EndGlobalSection
+EndGlobal
